@@ -1,2 +1,6 @@
 /target
 /Cargo.lock
+.idea/.gitignore
+.idea/modules.xml
+.idea/vcs.xml
+.idea/wasm_websocket_sample.iml
